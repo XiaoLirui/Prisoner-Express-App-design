@@ -1,6 +1,6 @@
 # Prisoner App Design
 
-This template should help get you started developing with Vue 3 in Vite.
+This app is to help an prisoner read artwork created by themselves in the prisoner, and to solve mental health. 
 
 ## Recommended IDE Setup
 
