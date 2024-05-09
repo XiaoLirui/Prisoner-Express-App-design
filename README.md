@@ -29,3 +29,14 @@ pnpm build
 ```
 
 ### UI Display
+
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/1.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/2.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/3.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/4.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/5.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/6.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/7.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/8.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/9.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/10.png)
