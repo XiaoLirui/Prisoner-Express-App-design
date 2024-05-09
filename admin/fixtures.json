@@ -1,0 +1,248 @@
+{
+
+  "newsletter-winter24": {
+    "name": "Newsletter - Winter 2024",
+    "type": "newsletter",
+    "img": "/workspaces/l-f-t-r-project/public/img/newsletter-winter-2024.png",
+    "author": "Lee Cotman",
+    "date": "April 1, 2024",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/newsletter-winter-2024.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Newsletters.png"
+  },
+
+  "newsletter-summer24": {
+    "name": "Newsletter - Summer 2024",
+    "type": "newsletter",
+    "img": "/workspaces/l-f-t-r-project/public/img/newsletter-summer-2024.jpeg",
+    "author": "Volunteer",
+    "date": "September 13, 2024",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/newsletter-summer-2024.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Newsletters.png"
+  },
+
+  "newsletter-winter23": {
+    "name": "Newsletter - Summer 2023",
+    "type": "newsletter",
+    "img": "/workspaces/l-f-t-r-project/public/img/newsletter-winter-2023.jpeg",
+    "author": "Volunteer",
+    "date": "March 28, 2023",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/newsletter-winter-2023.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Newsletters.png"
+  },
+
+  "newsletter-summer23": {
+    "name": "Newsletter - Summer 2023",
+    "type": "newsletter",
+    "img": "/workspaces/l-f-t-r-project/public/img/newsletter-summer-2023.jpeg",
+    "author": "Volunteer",
+    "date": "September 13, 2023",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/newsletter-summer-2023.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Newsletters.png"
+  },
+
+  "newsletter-winter22": {
+    "name": "Newsletter - Summer 2022",
+    "type": "newsletter",
+    "img": "/workspaces/l-f-t-r-project/public/img/newsletter-winter-2022.jpeg",
+    "author": "Volunteer",
+    "date": "March 28, 2022",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/newsletter-winter-2022.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Newsletters.png"
+  },
+  "newsletter-summer22": {
+    "name": "Newsletter - Summer 2022",
+    "type": "newsletter",
+    "img": "/workspaces/l-f-t-r-project/public/img/newsletter-summer-2022.jpeg",
+    "author": "Volunteer",
+    "date": "September 13, 2022",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/newsletter-summer-2022.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Newsletters.png"
+  },
+
+  "program-appdesign": {
+    "name": "Prisoner Express App Design",
+    "type": "program",
+    "img": "/workspaces/l-f-t-r-project/public/img/program-appdesign.png",
+    "author": "Lyss Eng",
+    "date": "Fall 2023",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/program-appdesign.pdf",
+    "about": "No prior design experience required! This packet focuses on the creative design process of app creation. We will cover the life cycle of the human-centered design process, from user research to design and prototyping.",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/program.jpg"
+  },
+
+  "program-chess": {
+    "name": "Prisoner Express Chess Club",
+    "type": "program",
+    "img": "/workspaces/l-f-t-r-project/public/img/program-chess.png",
+    "author": "Raheem 725",
+    "date": "Fall 2023",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/program-chess.pdf",
+    "about": "New to chess or a seasoned expert? No matter what background you have, this chess packet will satisfy your interest in the sport. In this packet, you will review the basics and special moves, read about historic tournaments and players, and practice with some chess challenges.",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/program.jpg"
+  },
+
+  "program-med": {
+    "name": "Meditation and Spirituality",
+    "type": "program",
+    "img": "/workspaces/l-f-t-r-project/public/img/program-med.png",
+    "author": "Tara",
+    "date": "Fall 2023",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/program-med.pdf",
+    "about": "This packet contains information about various practices in meditation, its benefits, advice, a list of resources, and more. Begin or continue your journey to soothe and sharpen your mind in new ways.",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/program.jpg"
+  },
+
+  "program-art": {
+    "name": "Artknows",
+    "type": "program",
+    "img": "/workspaces/l-f-t-r-project/public/img/program-art.png",
+    "author": "Lee Cotman",
+    "date": "Fall 2023",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/program-art.pdf",
+    "about": "Welcome to ARTknows! In this edition we are going to explore the art of couples. There have been famous couples in all walks of life throughout history; political couples such as Cleopatra and Julius Caesar (or was it Mark Anthony, or both?) or singing couples such as Tina and Ike Turner. How about visual fine art couples?",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/program.jpg"
+  },
+      "art-david": {
+        "img": "/workspaces/l-f-t-r-project/public/img/art-david.png",
+        "type": "program",
+        "name": "Friendly Sky",
+        "author": "David Partain",
+        "date": "July 2023",
+        "mail": "David Partain, #P81537 MCIC;\nPO Box 409089;\nIone, CA, 95640-9089",
+        "type-image": "/workspaces/l-f-t-r-project/public/img/art.jpg"
+      },
+
+      "art-anthony": {
+        "img": "/workspaces/l-f-t-r-project/public/img/art-anthony.jpeg",
+        "type": "art",
+        "name": "Untitled",
+        "author": "Anthony Chase Walton",
+        "date": "March 2022",
+        "mail": "Anthony Chase Walton, #1376793;\nIndian Creek Correctional Center;\nPO Box 16481;\nChesapeake, VA, 23328-6481",
+        "type-image": "/workspaces/l-f-t-r-project/public/img/art.jpg"
+      },
+
+      "art-brian": {
+        "img": "/workspaces/l-f-t-r-project/public/img/art-brian.jpeg",
+        "type": "art",
+        "name": "Freedom For Another 1",
+        "author": "Brian Byrnes",
+        "date": "May 2022",
+        "mail": "Brian Byrnes, #DZ87073;\nSmart Communications SCI Camp Hill;\nPO Box 33028;\nSt Petersburg, FL, 33733",
+        "type-image": "/workspaces/l-f-t-r-project/public/img/art.jpg"
+      },
+
+      "art-tim": {
+        "img": "/workspaces/l-f-t-r-project/public/img/art-tim.png",
+        "type": "art",
+        "name": "Home is Where the Heart Is",
+        "author": "Tim Vergason",
+        "date": "October 2022",
+        "mail": "Tim Vergason, #AY7946;\nPO Box 368;\nChino, CA, 91708",
+        "type-image": "/workspaces/l-f-t-r-project/public/img/art.jpg"
+      },
+
+      "art-sean": {
+        "img": "/workspaces/l-f-t-r-project/public/img/art-sean.png",
+        "type": "art",
+        "name": "Untitled",
+        "author": "Sean Riker",
+        "date": "March 2024",
+        "mail": "Sean Riker, #567232;\nWisconsin Secure Program Facility;\nPO Box 189;\nPhoenix, MD, 21131",
+        "type-image": "/workspaces/l-f-t-r-project/public/img/art.jpg"
+      },
+
+      "art-charles": {
+        "img": "/workspaces/l-f-t-r-project/public/img/art-charles.png",
+        "type": "art",
+        "name": "Invisible Fence",
+        "author": "Charles Messey",
+        "date": "August 2023",
+        "mail": "Charles Massey, #1547943;\nGreen Rock Correctional Center;\nPO Box 1000;\nChatham, VA, 24531",
+        "type-image": "/workspaces/l-f-t-r-project/public/img/art.jpg"
+      },
+
+  "poetry-28": {
+    "number": "28",
+    "type": "poetry",
+    "name": "Poetry Anthology #28",
+    "img": "/workspaces/l-f-t-r-project/public/img/poetry28.png",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/poetry28.pdf",
+    "description": "We are constantly receiving and reading poetry submissions from the prisoners in our program. It is always a pleasure to be able to appreciate and enjoy the creativity of these talented poets. We are proud to provide them with a platform to have their voices heard. Join us in our 28th celebration of poetry submissions from these authors.",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Poetry.png"
+  },
+
+  "poetry-27": {
+    "number": "27",
+    "type": "poetry",
+    "name": "Poetry Anthology #27",
+    "img": "/workspaces/l-f-t-r-project/public/img/poetry27.png",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/poetry27.pdf",
+    "description": "Join us in our 27th celebration of poetry submissions from these authors. Once again, I would like to thank everyone who submitted poetry as well as all of the volunteers and staff at Prisoner Express for their hard work.",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Poetry.png"
+  },
+
+  "poetry-26": {
+    "number": "26",
+    "type": "poetry",
+    "name": "Poetry Anthology #26",
+    "img": "/workspaces/l-f-t-r-project/public/img/poetry26.jpeg",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/poetry26.pdf",
+    "description": "Over the past several months, hundreds of poems have poured in from across the country. These works explore love and loss, the fleeting nature of memory, and personal transformation, among other themes. We’ve compiled many of the poems into this anthology, which has been mailed out to every person in prison who has gone through the challenging process of submitting their work.",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/Poetry.png"
+  },
+
+  "journal-joshua": {
+    "name": "By Joshua Morales",
+    "author": "Joshua Morales",
+    "type": "journal",
+    "date": "April 2024",
+    "mail": "Joshua Morales, #02371300; TDCJ McConnell Unit; PO BOX 660400; Dallas, TX, 75266-0400",
+    "img": "/workspaces/l-f-t-r-project/public/img/journal-joshua.png",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/journal-joshua.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/journal.png"
+  },
+
+  "journal-mark": {
+    "name": "By Mark Franta",
+    "author": "Mark Franta",
+    "type": "journal",
+    "date": "April 2024",
+    "mail": "Mark Franta, #1086506; SDCC; PO Box 208; Indian Springs, NV, 89070-0208",
+    "img": "/workspaces/l-f-t-r-project/public/img/journal-mark.png",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/journal-mark.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/journal.png"
+  },
+
+  "journal-michael": {
+    "name": "By Michael Powell",
+    "author": "Michael Powell",
+    "type": "journal",
+    "date": "February 2024",
+    "mail": "Michael Powell, #1342523; TDCJ Estelle Unit; PO BOX 660400; Dallas, TX, 75266-0400",
+    "img": "/workspaces/l-f-t-r-project/public/img/journal-michael.png",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/journal-michael.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/journal.png"
+  },
+
+  "journal-kyle": {
+    "name": "By Kyle Alleyne",
+    "author": "Kyle Alleyne",
+    "type": "journal",
+    "date": "December 2023",
+    "mail": "Kyle Alleyne, #W#102091; S.B.C.C.; PO Box 8000; Shirley, MA, 01464",
+    "img": "/workspaces/l-f-t-r-project/public/img/journal-kyle.png",
+    "pdf": "/workspaces/l-f-t-r-project/public/pdf/journal-kyle.pdf",
+    "type-image": "/workspaces/l-f-t-r-project/public/img/journal.png"
+  }
+
+
+
+
+
+
+
+
+
+
+}
