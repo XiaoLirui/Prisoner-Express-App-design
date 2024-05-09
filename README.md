@@ -30,13 +30,13 @@ pnpm build
 
 ### UI Display
 
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/1.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/2.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/3.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/4.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/5.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/6.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/7.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/8.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/9.png)
-![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/10.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/1.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/2.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/3.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/4.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/5.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/6.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/7.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/8.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/9.png)
+![alt text](https://github.com/XiaoLirui/Prisoner-Express-App-design/blob/main/10.png)
